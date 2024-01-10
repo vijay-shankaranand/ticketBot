@@ -3,7 +3,7 @@ const firefox = require('selenium-webdriver/firefox');
 
 const fetch = require('node-fetch');
 
-const botToken = '6438892045:AAF6Fq0_BZPSIpJdnAmji1sqvAx3dgHSumM';
+const botToken = 'xxx';
 const chatId = 'xxxx';
 
 const message = 'YOUR MOVIE TICKET BOOKING IS NOW OPEN!!! GO BOOK ASAP';
